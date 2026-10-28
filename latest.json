@@ -1,0 +1,9 @@
+{
+  "version": "0.9.5",
+  "protocol": 22,
+  "endpoint_generation": 1,
+  "notes": "Shepherd (Sheprd) is built from source. No fork release binaries have been published yet.",
+  "assets": {},
+  "sha256": {},
+  "releases": {}
+}

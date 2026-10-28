@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "channel": "preview",
+  "base_version": "0.9.5",
+  "build_id": "unreleased",
+  "commit": "",
+  "built_at": "",
+  "protocol": 22,
+  "endpoint_generation": 1,
+  "notes": "No Sheprd preview has been published.",
+  "assets": {},
+  "builds": {}
+}
